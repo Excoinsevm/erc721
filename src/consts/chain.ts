@@ -15,4 +15,4 @@ const CustomChain: Chain = {
   slug: "bitrock",
 };
 
-export const CustomChain;
+export default CustomChain;
