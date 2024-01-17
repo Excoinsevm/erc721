@@ -1,4 +1,4 @@
-import CustomChain from "../consts/chain.ts";
+import CustomChain from "../consts/chain";
 
 export const contractConst = "0x5Baa53AfB5b14aA3e7c70D649D56cfa00BA324eE";
 
