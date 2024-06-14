@@ -1,10 +1,10 @@
 import CustomChain from "../consts/chain";
 
-export const contractConst = "0x5Baa53AfB5b14aA3e7c70D649D56cfa00BA324eE";
+export const contractConst = "0x8dDEC53Ad0FbBd07FC1e5E5C238dC8B9DcE45557";
 
 export const chainConst = CustomChain;
 
-export const clientIdConst = "31f32271c182cfb7a4ceb7e1ed655950";
+export const clientIdConst = "1359df3adf00c991ec1e8d3ac7e1d8ad";
 
 export const primaryColorConst = "blue";
 
