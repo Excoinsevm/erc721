@@ -2,7 +2,7 @@ export const PoweredBy: React.FC = () => {
   return (
     <div
       onClick={() => {
-        window.open("https://www.dogcoin.site", "_blank");
+        window.open("https://www.bit-rock.io/", "_blank");
       }}
       className="spacing-1 absolute bottom-4 right-4 flex cursor-pointer items-center"
     >
